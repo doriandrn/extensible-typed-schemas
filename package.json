@@ -1,0 +1,16 @@
+{
+  "name": "extensible-typed-schemas",
+  "version": "0.0.1",
+  "description": "Descriptive typed schemas",
+  "main": "dist/index.js",
+  "repository": "https://github.com/doriandrn/extensible-typed-schemas.git",
+  "author": "<dorian.snaz@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
