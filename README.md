@@ -1,10 +1,14 @@
 # Extensible Typed Schemas
 
+Write simpler, typed schemas and share them with both your frontend(s) and backend(s).
+
 Because the frontend needs to know more coming straight from the app's backend. Especially if it's reactive.
 
 **Introducing ETS**:
 
 Typed schemas with contexts, annotations, endless descriptivity and cross-references.
+
+Schemas you can also communicate to your frontend, not only the backend.
 
 Assuming the schemas are always meant to describe an API
 
